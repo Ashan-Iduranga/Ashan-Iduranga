@@ -2,7 +2,7 @@
 
 Third-year **Software Engineering** undergraduate at **NSBM Green University**, Sri Lanka.
 **Crafting digital solutions — from idea to interface to code.**
-I design and build mobile and web apps that are simple, useful and fun to use.
+I design and build mobile and web apps that are simple, useful and time saving.
 
 📧 idurangaashan2001@gmail.com
 <!-- Add back when the new portfolio is live: 🌐 [ashaniduranga.me](https://ashaniduranga.me) · -->
