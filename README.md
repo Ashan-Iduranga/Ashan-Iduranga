@@ -17,7 +17,14 @@ I design and build mobile and web apps that are simple, useful and time saving.
 
 ### 🧰 Tech I use
 
-<img src="./tech-stack.svg" alt="Tech stack — Languages: Java, Python, JavaScript, PHP, Dart, SQL · Frontend: React, HTML, CSS, Tailwind CSS · Mobile: Flutter, React Native · Backend: Node.js, Spring Boot, ASP.NET · Databases & Cloud: MySQL, MongoDB, Firebase, Microsoft Azure · Tools: Git, GitHub, Postman, Figma, VS Code, Android Studio" width="100%" />
+| | |
+|---|---|
+| **Languages** | Java · Python · JavaScript · PHP · Dart · SQL |
+| **Frontend** | React · HTML · CSS · Tailwind CSS |
+| **Mobile** | Flutter · React Native |
+| **Backend** | Node.js · Spring Boot · ASP.NET |
+| **Databases & Cloud** | MySQL · MongoDB · Firebase · Microsoft Azure |
+| **Tools** | Git · GitHub · Postman · Figma · VS Code · Android Studio |
 
 ### 📌 Featured projects
 | Project | What it is | My role | Stack |
