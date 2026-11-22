@@ -14,17 +14,17 @@ Right now I'm focused on **AI agents**, **RAG** and **mobile apps with AI built 
 
 <a href="https://github.com/Ashan-Iduranga/gazettewatch-lk"><img src="./assets/card-gazettewatch.svg" width="100%" alt="GazetteWatch LK: search and ask questions over Sri Lankan government gazettes, in Sinhala and English. Building."/></a>
 <a href="https://github.com/Ashan-Iduranga/job-agent"><img src="./assets/card-job-agent.svg" width="100%" alt="Job Agent: finds internship vacancies and sends a short summary of each match. Building."/></a>
-<img src="./assets/card-daily-strip-ai.svg" width="100%" alt="Daily Strip AI: receipt scanning and monthly spending insights for the Daily Strip expense app. Up next."/></a>
+<img src="./assets/card-daily-strip-ai.svg" width="100%" alt="Daily Strip AI: receipt scanning and monthly spending insights for the Daily Strip expense app. Up next."/>
 
 <img src="./assets/h-more.svg" width="100%" alt="More projects"/>
 
 | Project | What it does | Built with |
 |---|---|---|
 | **[Design Library MCP](https://github.com/Ashan-Iduranga/design-library-mcp)** | A local library of real UI references, served to Claude as an MCP server with a browsable gallery. | MCP, Claude Code |
-| **[Agentic Dev Workflow](https://github.com/Ashan-Iduranga/agentic-dev-workflow)** | Reusable agent workflow for code review, a custom test runner and security checks. | Claude Code, GitHub Actions |
+| **[Agentic Dev Workflow]** | Reusable agent workflow for code review, a custom test runner and security checks. | Claude Code, GitHub Actions |
 | **[MemoStack](https://github.com/Ashan-Iduranga/memostack)** | Note-sharing app with streaks, XP and note requests. | React Native, Firebase, Cloudinary |
 | **[Daily Strip](https://github.com/Ashan-Iduranga/expense-tracker)** | Minimal expense tracker with charts, budgets and offline storage, plus a landing page. | Expo, TypeScript, Vercel |
-| **[BOQ Filler](https://github.com/Ashan-Iduranga/boq-filler)** | Desktop tool that fills a second Excel sheet from a BOQ by item number. Sold as a licensed product. | Python |
+| **[BOQ Filler]** | Desktop tool that fills a second Excel sheet from a BOQ by item number. Sold as a licensed product. | Python |
 
 <img src="./assets/h-stack.svg" width="100%" alt="Tools I use"/>
 
